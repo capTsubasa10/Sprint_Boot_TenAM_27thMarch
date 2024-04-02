@@ -8,6 +8,11 @@ public class SpringTenAmProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringTenAmProjectApplication.class, args);
+
+
+
+
+		
 	}
 
 }
